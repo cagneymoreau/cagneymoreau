@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @cagneymoreau
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-cagneymoreau/cagneymoreau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Current projects:
+ML algos that includes thinking about groups of numbers in a probablistic way and "recursive/fractal" algorithms
+
+Building out an android app that people have been asking for that focuses on IRL community building or marketplaces and can withtand centralized server outage or complete internet outage
